@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @daraghmeehan 🟢⚪🟠
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in music, languages, maths/cs
+- 🔭 I’m currently working on a program that allows the study of multiple languages simultaneously from TV shows/movies, and another to study/learn from Wikipedia
+- 🌱 I’m currently learning several languages, as much knowledge as I can :)
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me -> daragh meehan dottt gmail dottt com
 
 <!--
 **daraghmeehan/daraghmeehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
