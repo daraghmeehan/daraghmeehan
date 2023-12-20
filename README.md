@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daraghmeehan 🟢⚪🟠
 - 👀 I’m interested in music, languages, maths/cs
-- 🔭 I’m currently working on a program that allows the study of multiple languages simultaneously from TV shows/movies, and another to study/learn from Wikipedia
-- 🌱 I’m currently learning several languages, as much knowledge as I can :)
+- 🔭 I’m currently working on a program that allows the study of multiple languages simultaneously from TV shows/movies. After this I will resume progress on another to study/learn from Wikipedia
+- 🌱 I’m currently learning several languages, and as much knowledge as I can :)
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me -> daragh meehan dottt gmail dottt com
 
