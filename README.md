@@ -5,7 +5,7 @@
 - 🌱🌍💞️ Open to collaboration :)
 - 📫 -> daragh meehan dottt gmail dottt com
 
-Also check out my music/art -> ig link 🎧
+Also check out my music/art -> [here](https://www.instagram.com/daraghmeehan/) 🎧
 
 🟢⚪🟠
 
