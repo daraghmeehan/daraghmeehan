@@ -1,18 +1,18 @@
 - 👋 Hi, I’m @daraghmeehan ^_^
-- 🖥️🔭🚀 Currently building a language learning program for the study of multiple languages at the same time from TV shows/movies
-<br> After this, I will resume progress on another to study/learn from Wikipedia and textbooks 🕺
-- 📚🎨🎹💡🧳 I want to learn as much as I can :) especially music, languages, culture, maths/cs/science/history/..., wikipedia
-- 🌱🌍💞️ I would love to collaborate!
+- 🖥️🔭🚀 Check out my language learning program for studying multiple languages at the same time with TV shows/movies
+<br> Future plans are to expand it to help learning from Wikipedia, textbooks, and more 🕺
+- 📚🎨🎹💡🧳 I love learning learn :) especially about music, languages, culture, maths/cs/science/history/general knowledge!
+- 🌱🌍💞️ Open to collaboration :)
 - 📫 -> daragh meehan dottt gmail dottt com
+
+Also check out my music/art -> ig link 🎧
+
+🟢⚪🟠
 
 <!--
 **daraghmeehan/daraghmeehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-See my music -> ?? 🎧
-
-🟢⚪🟠
 
 
 - 🔭 I’m currently working on ...
